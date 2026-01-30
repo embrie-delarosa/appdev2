@@ -16,6 +16,8 @@
 
 \## 1. What went well
 
+
+
 \- I was able to make my projects work online so others could see them.  
 
 \- I finished my projects and shared them online using my account.  
@@ -31,6 +33,8 @@
 
 
 \## 2. What went wrong / Challenges
+
+
 
 \- I had a hard time making my projects look good on \*\*different screen sizes\*\*.  
 
@@ -48,6 +52,8 @@
 
 \## 3. Key Learnings
 
+
+
 \- I understand better \*\*how to structure\*\* and \*\*organize my projects step by step\*\*.  
 
 \- \*\*Planning before coding\*\* helps make projects easier to manage.  
@@ -64,6 +70,8 @@
 
 \## 4. Areas for Improvement
 
+
+
 \- Use \*\*Git and GitHub\*\* more consistently to track work.  
 
 \- \*\*Improve layout and design skills\*\* so projects look better on any screen.  
@@ -79,6 +87,8 @@
 
 
 \## 5. Expectations for Mobile Development (AppDev2)
+
+
 
 \- Learn how to make projects work well on mobile devices.  
 
