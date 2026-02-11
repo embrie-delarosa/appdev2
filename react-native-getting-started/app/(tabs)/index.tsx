@@ -1,3 +1,10 @@
+import React from 'react';
+import ProfileDemo from '../ProfileDemo';
+
+export default function Index() {
+  return <ProfileDemo />;
+}
+
 // import { Image } from 'expo-image';
 // import { Platform, StyleSheet } from 'react-native';
 
@@ -97,6 +104,5 @@
 //   },
 // });
 
-import HelloWorldDemo from '@/app/HelloWorldDemo';
 
-export default HelloWorldDemo;
+
