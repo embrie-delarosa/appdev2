@@ -4,7 +4,7 @@ const PercentageDimensionsBasics = () => {
   // Try removing the `height: '100%'` on the parent View.
   // The parent will not have dimensions, so the children can't expand.
   return (
-    <View style={{height: '100%'}}>
+    <View style={{height: '0%'}}>
       <View
         style={{
           height: '15%',
