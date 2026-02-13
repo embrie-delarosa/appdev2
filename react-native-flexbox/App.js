@@ -20,8 +20,9 @@
 // });
 
 //import Flex from './components/Flex';
-import FlexDirectionBasics from './components/FlexDirectionBasics';
+//import FlexDirectionBasics from './components/FlexDirectionBasics';
+import DirectionLayout from './components/DirectionLayout';
 
 export default function App() {
-  return <FlexDirectionBasics />;
+  return <DirectionLayout />;
 }
