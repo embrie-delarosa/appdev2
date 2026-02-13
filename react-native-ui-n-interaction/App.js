@@ -20,8 +20,9 @@
 
 //import LotsOfStyles from './components/LotsofStyles';
 //import FixedDimensionsBasics from './components/FixedDimensionsBasics';
-import FlexDimensionsBasics from './components/FlexDimensionsBasics';
+//import FlexDimensionsBasics from './components/FlexDimensionsBasics';
+import PercentageDimensionsBasics from './components/PercentageDimensionsBasics';
 
 export default function App() {
-  return <FlexDimensionsBasics />;
+  return <PercentageDimensionsBasics />;
 }
