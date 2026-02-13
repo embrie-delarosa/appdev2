@@ -19,8 +19,9 @@
 //   },
 // });
 
-import Flex from './components/Flex';
+//import Flex from './components/Flex';
+import FlexDirectionBasics from './components/FlexDirectionBasics';
 
 export default function App() {
-  return <Flex />;
+  return <FlexDirectionBasics />;
 }
