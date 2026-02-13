@@ -19,8 +19,9 @@
 //   },
 // });
 
-import LotsOfStyles from './components/LotsofStyles';
+//import LotsOfStyles from './components/LotsofStyles';
+import FixedDimensionsBasics from './components/FixedDimensionsBasics';
 
 export default function App() {
-  return <LotsOfStyles />;
+  return <FixedDimensionsBasics />;
 }
