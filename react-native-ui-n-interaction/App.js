@@ -17,7 +17,6 @@
 //     alignItems: 'center',
 //     justifyContent: 'center',
 //   },
-// });
 
 //import LotsOfStyles from './components/LotsofStyles';
 //import FixedDimensionsBasics from './components/FixedDimensionsBasics';
