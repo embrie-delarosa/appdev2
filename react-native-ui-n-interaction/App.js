@@ -20,8 +20,9 @@
 // });
 
 //import LotsOfStyles from './components/LotsofStyles';
-import FixedDimensionsBasics from './components/FixedDimensionsBasics';
+//import FixedDimensionsBasics from './components/FixedDimensionsBasics';
+import FlexDimensionsBasics from './components/FlexDimensionsBasics';
 
 export default function App() {
-  return <FixedDimensionsBasics />;
+  return <FlexDimensionsBasics />;
 }
