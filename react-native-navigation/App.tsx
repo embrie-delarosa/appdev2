@@ -7,6 +7,13 @@ import {
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { Button } from '@react-navigation/elements';
 
+import type {
+  RootStackParamList,
+  HomeScreenNavigationProp,
+  DetailsProps,
+  DetailsScreenNavigationProp,
+} from './types';
+
 import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
 //import type { RouteProp} from '@react-navigation/native'
 
